@@ -1,4 +1,8 @@
 __pycache__/
 *.pyc
 .env
-=0.8.11
+.DS_Store
+dsr-clone/data/intermediate/
+dsr-clone/data/output/
+dsr-clone/data/mappings/
+data/output/

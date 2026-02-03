@@ -1,5 +1,0 @@
-# Template Source Rules
-# Each entry captures ONLY what the template explicitly states as required sources.
-# No sources have been inferred from pharma conventions.
-
-template_sections: []
