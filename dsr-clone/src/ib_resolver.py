@@ -19,14 +19,14 @@ _IB_SECTION_RE = re.compile(
 # Regex for bare "IB" (no section number).
 _IB_BARE_RE = re.compile(r"^\s*IB\s*$", re.IGNORECASE)
 
-# Known external sources (matched case-insensitively).
-_EXTERNAL_SOURCES = {
+# Known external source keywords (substring-matched, case-insensitive).
+_EXTERNAL_KEYWORDS = [
     "uptodate",
     "medline",
     "embase",
     "company safety database",
     "signal assessment",
-}
+]
 
 
 def classify_source(source: str) -> Tuple[str, Optional[str]]:
@@ -51,9 +51,11 @@ def classify_source(source: str) -> Tuple[str, Optional[str]]:
     if stripped.lower().startswith("pbrer"):
         return ("pbrer", None)
 
-    # Known external sources.
-    if stripped.lower() in _EXTERNAL_SOURCES:
-        return ("external", None)
+    # Known external sources (substring match for flexibility).
+    lower = stripped.lower()
+    for kw in _EXTERNAL_KEYWORDS:
+        if kw in lower:
+            return ("external", None)
 
     return ("unknown", None)
 
@@ -106,7 +108,7 @@ def resolve_sources(
                             original_ref=ref,
                             source_type=source_type,
                             section_num=section_num,
-                            content=f"[CONTENT NOT FOUND: IB {section_num}]",
+                            content=f"[CONTENT NOT FOUND: {ref.strip()}]",
                             found=False,
                         )
                     )
