@@ -53,7 +53,7 @@ python -m src.cli from-sections \
     --index-csv ../dsr_sections/dsr_sections_index.csv \
     --template ../signal_assessment_template.txt \
     --ib "../Published Report - Investigator Brochure  RO7499790 (pralsetinib) 11.pdf" \
-    --scope "1.1-1.2.2.4"
+    --scope "1.1-3.3.1"
 ```
 
 ### Using a DSR PDF directly (from-pdf)
@@ -67,7 +67,7 @@ python -m src.cli from-pdf \
     --pdf "../DSR_Severe Infections_2024_Pralsetinib_1132062_FINAL_V2_24Oct2024.pdf" \
     --template ../signal_assessment_template.txt \
     --ib "../Published Report - Investigator Brochure  RO7499790 (pralsetinib) 11.pdf" \
-    --scope "1.1-1.2.2.4"
+    --scope "1.1-3.3.1"
 ```
 
 ### Dry run (no API calls)
@@ -80,7 +80,7 @@ python -m src.cli from-sections \
     --index-csv ../dsr_sections/dsr_sections_index.csv \
     --template ../signal_assessment_template.txt \
     --ib "../Published Report - Investigator Brochure  RO7499790 (pralsetinib) 11.pdf" \
-    --scope "1.1-1.2.2.4" \
+    --scope "1.1-3.3.1" \
     --dry-run
 ```
 
@@ -114,7 +114,7 @@ python -m src.cli from-sections \
     --index-csv ../dsr_sections/dsr_sections_index.csv \
     --template ../signal_assessment_template.txt \
     --ib "/path/to/new_drug_ib.pdf" \
-    --scope "1.1-1.2.2.4"
+    --scope "1.1-3.3.1"
 ```
 
 The template references like "IB 2.3" will resolve to section 2.3 of whatever IB you provide.
