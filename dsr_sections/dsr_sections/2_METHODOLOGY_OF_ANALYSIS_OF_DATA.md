@@ -1,0 +1,8 @@
+# 2 METHODOLOGY OF ANALYSIS OF DATA
+
+**Page range:** 19–19
+
+```text
+2.
+METHODOLOGY OF ANALYSIS OF DATA
+```

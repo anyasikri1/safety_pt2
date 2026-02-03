@@ -1,0 +1,141 @@
+section_num,title,heading_full,page_start,page_end,file
+1.1,OBJECTIVES OF REPORT,1.1 OBJECTIVES OF REPORT,12,12,/mnt/data/dsr_extracted/dsr_sections/1.1_OBJECTIVES_OF_REPORT.md
+1.2,BACKGROUND,1.2 BACKGROUND,12,12,/mnt/data/dsr_extracted/dsr_sections/1.2_BACKGROUND.md
+1.2.1,Drug Background – Pralsetinib,1.2.1 Drug Background – Pralsetinib,12,12,/mnt/data/dsr_extracted/dsr_sections/1.2.1_Drug_Background_Pralsetinib.md
+1.2.1.1,Therapeutic Indications,1.2.1.1 Therapeutic Indications,12,13,/mnt/data/dsr_extracted/dsr_sections/1.2.1.1_Therapeutic_Indications.md
+1.2.1.2,Relevant Information in the core RMP,1.2.1.2 Relevant Information in the core RMP,13,13,/mnt/data/dsr_extracted/dsr_sections/1.2.1.2_Relevant_Information_in_the_core_RMP.md
+1.2.1.3,Patient Exposure,1.2.1.3 Patient Exposure,13,13,/mnt/data/dsr_extracted/dsr_sections/1.2.1.3_Patient_Exposure.md
+1.2.2,Background on Severe Infection,1.2.2 Background on Severe Infection,13,13,/mnt/data/dsr_extracted/dsr_sections/1.2.2_Background_on_Severe_Infection.md
+1.2.2.1,The Epidemiological Triad: Agent–Host–Environment,1.2.2.1 The Epidemiological Triad: Agent–Host–Environment,13,16,/mnt/data/dsr_extracted/dsr_sections/1.2.2.1_The_Epidemiological_Triad_AgentHostEnvironment.md
+1.2.2.3,Common Types of Infections in Solid Tumor Patients and Their,1.2.2.3 Common Types of Infections in Solid Tumor Patients and Their,16,18,/mnt/data/dsr_extracted/dsr_sections/1.2.2.3_Common_Types_of_Infections_in_Solid_Tumor_Patients_and_Their.md
+1.2.2.4,Treatment recommendations,1.2.2.4 Treatment recommendations,18,19,/mnt/data/dsr_extracted/dsr_sections/1.2.2.4_Treatment_recommendations.md
+2,METHODOLOGY OF ANALYSIS OF DATA,2 METHODOLOGY OF ANALYSIS OF DATA,19,19,/mnt/data/dsr_extracted/dsr_sections/2_METHODOLOGY_OF_ANALYSIS_OF_DATA.md
+2.1,RELEVANT TOXICOLOGY INFORMATION,2.1 RELEVANT TOXICOLOGY INFORMATION,19,19,/mnt/data/dsr_extracted/dsr_sections/2.1_RELEVANT_TOXICOLOGY_INFORMATION.md
+2.2,ANALYSIS OF COMPANY SPONSORED CLINICAL TRIALS,2.2 ANALYSIS OF COMPANY SPONSORED CLINICAL TRIALS,19,19,/mnt/data/dsr_extracted/dsr_sections/2.2_ANALYSIS_OF_COMPANY_SPONSORED_CLINICAL_TRIALS.md
+1,Nonrandomized,1 Nonrandomized,19,19,/mnt/data/dsr_extracted/dsr_sections/1_Nonrandomized.md
+2,Open label,2 Open label,19,19,/mnt/data/dsr_extracted/dsr_sections/2_Open_label.md
+3,Single Group,3 Single Group,19,19,/mnt/data/dsr_extracted/dsr_sections/3_Single_Group.md
+4,Non-Controlled,4 Non-Controlled,19,19,/mnt/data/dsr_extracted/dsr_sections/4_Non-Controlled.md
+3,Non-Controlled,3 Non-Controlled,19,19,/mnt/data/dsr_extracted/dsr_sections/3_Non-Controlled.md
+1,Randomized,1 Randomized,19,19,/mnt/data/dsr_extracted/dsr_sections/1_Randomized.md
+3,Parallel,3 Parallel,19,19,/mnt/data/dsr_extracted/dsr_sections/3_Parallel.md
+4,Active Controlled,4 Active Controlled,19,19,/mnt/data/dsr_extracted/dsr_sections/4_Active_Controlled.md
+1,N/A,1 N/A,19,20,/mnt/data/dsr_extracted/dsr_sections/1_NA.md
+2.2.1,Study BO42864 (AcceleRET-Lung),2.2.1 Study BO42864 (AcceleRET-Lung),20,22,/mnt/data/dsr_extracted/dsr_sections/2.2.1_Study_BO42864_AcceleRET-Lung.md
+2.2.2,Study BO42863 (ARROW),2.2.2 Study BO42863 (ARROW),22,22,/mnt/data/dsr_extracted/dsr_sections/2.2.2_Study_BO42863_ARROW.md
+2.3,ANALYSIS OF COMPANY SAFETY DATABASE,2.3 ANALYSIS OF COMPANY SAFETY DATABASE,22,22,/mnt/data/dsr_extracted/dsr_sections/2.3_ANALYSIS_OF_COMPANY_SAFETY_DATABASE.md
+2.3.1,Strategy for Case Analysis,2.3.1 Strategy for Case Analysis,22,23,/mnt/data/dsr_extracted/dsr_sections/2.3.1_Strategy_for_Case_Analysis.md
+3,RESULTS,3 RESULTS,23,23,/mnt/data/dsr_extracted/dsr_sections/3_RESULTS.md
+3.1,RELEVANT TOXICOLOGY RESULTS,3.1 RELEVANT TOXICOLOGY RESULTS,23,24,/mnt/data/dsr_extracted/dsr_sections/3.1_RELEVANT_TOXICOLOGY_RESULTS.md
+3.1.1,Hematologic and Lymphoid Systems,3.1.1 Hematologic and Lymphoid Systems,24,24,/mnt/data/dsr_extracted/dsr_sections/3.1.1_Hematologic_and_Lymphoid_Systems.md
+3.2,EVIDENCE FROM COMPANY SPONSORED CLINICAL TRIALS,3.2 EVIDENCE FROM COMPANY SPONSORED CLINICAL TRIALS,24,24,/mnt/data/dsr_extracted/dsr_sections/3.2_EVIDENCE_FROM_COMPANY_SPONSORED_CLINICAL_TRIALS.md
+3.2.1,AcceleRET-Lung Study,3.2.1 AcceleRET-Lung Study,24,24,/mnt/data/dsr_extracted/dsr_sections/3.2.1_AcceleRET-Lung_Study.md
+0,Grade 3-4 Infections,0 Grade 3-4 Infections,24,25,/mnt/data/dsr_extracted/dsr_sections/0_Grade_3-4_Infections.md
+0,Cardiac AEs Preferred Terms:,0 Cardiac AEs Preferred Terms:,25,25,/mnt/data/dsr_extracted/dsr_sections/0_Cardiac_AEs_Preferred_Terms.md
+0,Pyrexia,0 Pyrexia,25,25,/mnt/data/dsr_extracted/dsr_sections/0_Pyrexia.md
+0,GI haemorrhage,0 GI haemorrhage,25,25,/mnt/data/dsr_extracted/dsr_sections/0_GI_haemorrhage.md
+0,COVID-,0 COVID-,25,25,/mnt/data/dsr_extracted/dsr_sections/0_COVID-.md
+0,Pneumonia,0 Pneumonia,25,25,/mnt/data/dsr_extracted/dsr_sections/0_Pneumonia.md
+0,Pneumocystis,0 Pneumocystis,25,26,/mnt/data/dsr_extracted/dsr_sections/0_Pneumocystis.md
+0,Urinary tract,0 Urinary tract,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Urinary_tract.md
+0,Herpes zoster,0 Herpes zoster,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Herpes_zoster.md
+0,Respiratory tract,0 Respiratory tract,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Respiratory_tract.md
+0,Lower respiratory,0 Lower respiratory,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Lower_respiratory.md
+0,Infection,0 Infection,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Infection.md
+0,Sepsis,0 Sepsis,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Sepsis.md
+0,Device related,0 Device related,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Device_related.md
+0,Diverticulitis,0 Diverticulitis,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Diverticulitis.md
+0,Escherichia,0 Escherichia,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Escherichia.md
+0,Pyelonephritis,0 Pyelonephritis,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Pyelonephritis.md
+0,Urosepsis,0 Urosepsis,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Urosepsis.md
+0,Bronchopulmonar,0 Bronchopulmonar,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Bronchopulmonar.md
+0,Oesophageal,0 Oesophageal,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Oesophageal.md
+0,Pleural infection,0 Pleural infection,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Pleural_infection.md
+0,Pseudomembran,0 Pseudomembran,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Pseudomembran.md
+0,Q fever,0 Q fever,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Q_fever.md
+0,Spontaneous,0 Spontaneous,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Spontaneous.md
+0,Staphylococcal,0 Staphylococcal,26,26,/mnt/data/dsr_extracted/dsr_sections/0_Staphylococcal.md
+0,Total No. of AEs,0 Total No. of AEs,26,27,/mnt/data/dsr_extracted/dsr_sections/0_Total_No_of_AEs.md
+3.2.1.1,Infections leading to death (Grade 5),3.2.1.1 Infections leading to death (Grade 5),27,28,/mnt/data/dsr_extracted/dsr_sections/3.2.1.1_Infections_leading_to_death_Grade_5.md
+9,This patient also presented with Grade 3 AE of Pyelonephritis,9 This patient also presented with Grade 3 AE of Pyelonephritis,28,30,/mnt/data/dsr_extracted/dsr_sections/9_This_patient_also_presented_with_Grade_3_AE_of_Pyelonephritis.md
+3,pseudomembranous colitis was diagnosed after abdominal angiogram CT due to signs,3 pseudomembranous colitis was diagnosed after abdominal angiogram CT due to signs,30,33,/mnt/data/dsr_extracted/dsr_sections/3_pseudomembranous_colitis_was_diagnosed_after_abdominal_angiogram_CT_due_to_signs.md
+3.2.1.2,Grade 3-4 Infections,3.2.1.2 Grade 3-4 Infections,33,34,/mnt/data/dsr_extracted/dsr_sections/3.2.1.2_Grade_3-4_Infections.md
+3.2.1.3,Opportunistic Infections,3.2.1.3 Opportunistic Infections,34,35,/mnt/data/dsr_extracted/dsr_sections/3.2.1.3_Opportunistic_Infections.md
+0,Pneumonia cytomegaloviral*,0 Pneumonia cytomegaloviral*,35,35,/mnt/data/dsr_extracted/dsr_sections/0_Pneumonia_cytomegaloviral.md
+0,Pneumonia legionella,0 Pneumonia legionella,35,35,/mnt/data/dsr_extracted/dsr_sections/0_Pneumonia_legionella.md
+0,Bronchopulmonary,0 Bronchopulmonary,35,35,/mnt/data/dsr_extracted/dsr_sections/0_Bronchopulmonary.md
+0,Oesophageal candidiasis,0 Oesophageal candidiasis,35,35,/mnt/data/dsr_extracted/dsr_sections/0_Oesophageal_candidiasis.md
+0,Total Number of Patients with,0 Total Number of Patients with,35,35,/mnt/data/dsr_extracted/dsr_sections/0_Total_Number_of_Patients_with.md
+0,1Narrow search Terms,0 1Narrow search Terms,35,37,/mnt/data/dsr_extracted/dsr_sections/0_1Narrow_search_Terms.md
+3.2.1.4,Analysis of Neutropenia and Lymphopenia Events in Patients,3.2.1.4 Analysis of Neutropenia and Lymphopenia Events in Patients,37,38,/mnt/data/dsr_extracted/dsr_sections/3.2.1.4_Analysis_of_Neutropenia_and_Lymphopenia_Events_in_Patients.md
+10,None,10 None,38,39,/mnt/data/dsr_extracted/dsr_sections/10_None.md
+13,None,13 None,39,40,/mnt/data/dsr_extracted/dsr_sections/13_None.md
+3.2.2,ARROW Study,3.2.2 ARROW Study,40,41,/mnt/data/dsr_extracted/dsr_sections/3.2.2_ARROW_Study.md
+3.3,EVIDENCE FROM COMPANY SAFETY DATABASE,3.3 EVIDENCE FROM COMPANY SAFETY DATABASE,41,42,/mnt/data/dsr_extracted/dsr_sections/3.3_EVIDENCE_FROM_COMPANY_SAFETY_DATABASE.md
+3.3.1,Serious Cases,3.3.1 Serious Cases,42,43,/mnt/data/dsr_extracted/dsr_sections/3.3.1_Serious_Cases.md
+3.3.1.1,Cases with Grade 5 Infections,3.3.1.1 Cases with Grade 5 Infections,43,43,/mnt/data/dsr_extracted/dsr_sections/3.3.1.1_Cases_with_Grade_5_Infections.md
+18,to 64 (Adult),18 to 64 (Adult),43,44,/mnt/data/dsr_extracted/dsr_sections/18_to_64_Adult.md
+1,each (39.6*),1 each (39.6*),44,44,/mnt/data/dsr_extracted/dsr_sections/1_each_396.md
+3.3.1.1.1,Single Case Analysis,3.3.1.1.1 Single Case Analysis,44,45,/mnt/data/dsr_extracted/dsr_sections/3.3.1.1.1_Single_Case_Analysis.md
+7,"AEs, not related for 33 AEs while it was not reported for the remaining 3 AEs.","7 AEs, not related for 33 AEs while it was not reported for the remaining 3 AEs.",45,46,/mnt/data/dsr_extracted/dsr_sections/7_AEs_not_related_for_33_AEs_while_it_was_not_reported_for_the_remaining_3_AEs.md
+3.3.1.2,Cases with Grade 4 Infections,3.3.1.2 Cases with Grade 4 Infections,46,47,/mnt/data/dsr_extracted/dsr_sections/3.3.1.2_Cases_with_Grade_4_Infections.md
+2,each (12.8*),2 each (12.8*),47,47,/mnt/data/dsr_extracted/dsr_sections/2_each_128.md
+1,each (32*),1 each (32*),47,47,/mnt/data/dsr_extracted/dsr_sections/1_each_32.md
+3.3.1.2.1,Single Case Analysis,3.3.1.2.1 Single Case Analysis,47,52,/mnt/data/dsr_extracted/dsr_sections/3.3.1.2.1_Single_Case_Analysis.md
+3.3.1.3,Cases with Grade 3 Infections,3.3.1.3 Cases with Grade 3 Infections,52,52,/mnt/data/dsr_extracted/dsr_sections/3.3.1.3_Cases_with_Grade_3_Infections.md
+16,These Grade 4 AEs and Grade 5 AEs are already discussed in respective sections.,16 These Grade 4 AEs and Grade 5 AEs are already discussed in respective sections.,52,53,/mnt/data/dsr_extracted/dsr_sections/16_These_Grade_4_AEs_and_Grade_5_AEs_are_already_discussed_in_respective_sections.md
+13,each (8.4*),13 each (8.4*),53,53,/mnt/data/dsr_extracted/dsr_sections/13_each_84.md
+7,each (4.4*),7 each (4.4*),53,53,/mnt/data/dsr_extracted/dsr_sections/7_each_44.md
+6,each (7.6*),6 each (7.6*),53,53,/mnt/data/dsr_extracted/dsr_sections/6_each_76.md
+5,each (3.2*),5 each (3.2*),53,53,/mnt/data/dsr_extracted/dsr_sections/5_each_32.md
+4,each (3.9*),4 each (3.9*),53,53,/mnt/data/dsr_extracted/dsr_sections/4_each_39.md
+3,each (7*),3 each (7*),53,53,/mnt/data/dsr_extracted/dsr_sections/3_each_7.md
+2,each (8.4*),2 each (8.4*),53,53,/mnt/data/dsr_extracted/dsr_sections/2_each_84.md
+1,each (15.3*),1 each (15.3*),53,54,/mnt/data/dsr_extracted/dsr_sections/1_each_153.md
+2,Not Recovered/Not,2 Not Recovered/Not,54,54,/mnt/data/dsr_extracted/dsr_sections/2_Not_RecoveredNot.md
+1,Recovering/Resolving,1 Recovering/Resolving,54,54,/mnt/data/dsr_extracted/dsr_sections/1_RecoveringResolving.md
+2,Unknown,2 Unknown,54,54,/mnt/data/dsr_extracted/dsr_sections/2_Unknown.md
+1,Total,1 Total,54,54,/mnt/data/dsr_extracted/dsr_sections/1_Total.md
+3.3.1.3.1,Single Case Analysis,3.3.1.3.1 Single Case Analysis,54,56,/mnt/data/dsr_extracted/dsr_sections/3.3.1.3.1_Single_Case_Analysis.md
+3.3.1.4,Cases lacking Information on Severity Grades for Infection,3.3.1.4 Cases lacking Information on Severity Grades for Infection,56,56,/mnt/data/dsr_extracted/dsr_sections/3.3.1.4_Cases_lacking_Information_on_Severity_Grades_for_Infection.md
+17,These Grade 4 AEs and Grade 5 AEs are already discussed in respective sections.,17 These Grade 4 AEs and Grade 5 AEs are already discussed in respective sections.,56,57,/mnt/data/dsr_extracted/dsr_sections/17_These_Grade_4_AEs_and_Grade_5_AEs_are_already_discussed_in_respective_sections.md
+3.3.1.5,Cases with Grade 2 and 1 Infections,3.3.1.5 Cases with Grade 2 and 1 Infections,57,57,/mnt/data/dsr_extracted/dsr_sections/3.3.1.5_Cases_with_Grade_2_and_1_Infections.md
+3.3.2,Non-serious Cases,3.3.2 Non-serious Cases,57,57,/mnt/data/dsr_extracted/dsr_sections/3.3.2_Non-serious_Cases.md
+18,These Grade 4 AEs and Grade 5 AEs are already discussed in respective sections.,18 These Grade 4 AEs and Grade 5 AEs are already discussed in respective sections.,57,58,/mnt/data/dsr_extracted/dsr_sections/18_These_Grade_4_AEs_and_Grade_5_AEs_are_already_discussed_in_respective_sections.md
+5,each (14.4*),5 each (14.4*),58,58,/mnt/data/dsr_extracted/dsr_sections/5_each_144.md
+2,each (9.6*),2 each (9.6*),58,58,/mnt/data/dsr_extracted/dsr_sections/2_each_96.md
+1,each (34*),1 each (34*),58,58,/mnt/data/dsr_extracted/dsr_sections/1_each_34.md
+3.3.3,Summary of Safety Results,3.3.3 Summary of Safety Results,58,59,/mnt/data/dsr_extracted/dsr_sections/3.3.3_Summary_of_Safety_Results.md
+19,"pneumonia (n=4), Pneumonia aspiration (n=3), Urosepsis (n=2), Pneumonia","19 pneumonia (n=4), Pneumonia aspiration (n=3), Urosepsis (n=2), Pneumonia",59,59,/mnt/data/dsr_extracted/dsr_sections/19_pneumonia_n4_Pneumonia_aspiration_n3_Urosepsis_n2_Pneumonia.md
+2,"cases were Pneumocystis jirovecii, CMV and Streptococcus pneumoneae.","2 cases were Pneumocystis jirovecii, CMV and Streptococcus pneumoneae.",59,60,/mnt/data/dsr_extracted/dsr_sections/2_cases_were_Pneumocystis_jirovecii_CMV_and_Streptococcus_pneumoneae.md
+4,DISCUSSION,4 DISCUSSION,60,63,/mnt/data/dsr_extracted/dsr_sections/4_DISCUSSION.md
+5,OVERALL CONCLUSIONS,5 OVERALL CONCLUSIONS,63,65,/mnt/data/dsr_extracted/dsr_sections/5_OVERALL_CONCLUSIONS.md
+6,REFERENCES,6 REFERENCES,65,65,/mnt/data/dsr_extracted/dsr_sections/6_REFERENCES.md
+2,"Gavreto SmPC, May 2024","2 Gavreto SmPC, May 2024",65,65,/mnt/data/dsr_extracted/dsr_sections/2_Gavreto_SmPC_May_2024.md
+3,"Gavreto USPI, August 2023","3 Gavreto USPI, August 2023",65,65,/mnt/data/dsr_extracted/dsr_sections/3_Gavreto_USPI_August_2023.md
+5,"Retevmo (selpercatinib) SmPC, March 2023","5 Retevmo (selpercatinib) SmPC, March 2023",65,65,/mnt/data/dsr_extracted/dsr_sections/5_Retevmo_selpercatinib_SmPC_March_2023.md
+6,"Retevmo (selpercatinib) USPI, May 2024","6 Retevmo (selpercatinib) USPI, May 2024",65,65,/mnt/data/dsr_extracted/dsr_sections/6_Retevmo_selpercatinib_USPI_May_2024.md
+11,"Valvani A, Martin A, Devarajan A, Chandy D. Postobstructive pneumonia in lung","11 Valvani A, Martin A, Devarajan A, Chandy D. Postobstructive pneumonia in lung",65,65,/mnt/data/dsr_extracted/dsr_sections/11_Valvani_A_Martin_A_Devarajan_A_Chandy_D_Postobstructive_pneumonia_in_lung.md
+12,"Evans SE, Safdar A. Pneumonia in the Cancer Patient. Principles and Practice of","12 Evans SE, Safdar A. Pneumonia in the Cancer Patient. Principles and Practice of",65,65,/mnt/data/dsr_extracted/dsr_sections/12_Evans_SE_Safdar_A_Pneumonia_in_the_Cancer_Patient_Principles_and_Practice_of.md
+14,"Seo SK, Liu C, Dadwal SS. Infectious Disease Complications in Patients with","14 Seo SK, Liu C, Dadwal SS. Infectious Disease Complications in Patients with",65,65,/mnt/data/dsr_extracted/dsr_sections/14_Seo_SK_Liu_C_Dadwal_SS_Infectious_Disease_Complications_in_Patients_with.md
+15,"Adas MA, Alveyn E, Cook E, Dey M, Galloway JB, Bechman K. The infection risks","15 Adas MA, Alveyn E, Cook E, Dey M, Galloway JB, Bechman K. The infection risks",65,65,/mnt/data/dsr_extracted/dsr_sections/15_Adas_MA_Alveyn_E_Cook_E_Dey_M_Galloway_JB_Bechman_K_The_infection_risks.md
+16,"Stegherr R, Beyersmann J, Jehl V, Rufibach K, Leverkus F, Schmoor C, Friede T. S","16 Stegherr R, Beyersmann J, Jehl V, Rufibach K, Leverkus F, Schmoor C, Friede T. S",65,66,/mnt/data/dsr_extracted/dsr_sections/16_Stegherr_R_Beyersmann_J_Jehl_V_Rufibach_K_Leverkus_F_Schmoor_C_Friede_T_S.md
+7,APPENDICES,7 APPENDICES,66,201,/mnt/data/dsr_extracted/dsr_sections/7_APPENDICES.md
+6,"months of the initiation of pralsetinib, the patient died due to","6 months of the initiation of pralsetinib, the patient died due to",201,202,/mnt/data/dsr_extracted/dsr_sections/6_months_of_the_initiation_of_pralsetinib_the_patient_died_due_to.md
+0.30,"g/L (reference range 4.0-11.0), platelet count of 100 g/L","0.30 g/L (reference range 4.0-11.0), platelet count of 100 g/L",202,204,/mnt/data/dsr_extracted/dsr_sections/0.30_gL_reference_range_40-110_platelet_count_of_100_gL.md
+19,"pneumonia, pneumonia staphylococcal while receiving","19 pneumonia, pneumonia staphylococcal while receiving",204,212,/mnt/data/dsr_extracted/dsr_sections/19_pneumonia_pneumonia_staphylococcal_while_receiving.md
+5,pneumonia with the symptoms including fever and dyspnea.,5 pneumonia with the symptoms including fever and dyspnea.,212,213,/mnt/data/dsr_extracted/dsr_sections/5_pneumonia_with_the_symptoms_including_fever_and_dyspnea.md
+19,and was hospitalized. Initial symptoms began on Study Day,19 and was hospitalized. Initial symptoms began on Study Day,213,220,/mnt/data/dsr_extracted/dsr_sections/19_and_was_hospitalized_Initial_symptoms_began_on_Study_Day.md
+19,"infection (Grade 5). On Study Day 714, the patient was","19 infection (Grade 5). On Study Day 714, the patient was",220,234,/mnt/data/dsr_extracted/dsr_sections/19_infection_Grade_5_On_Study_Day_714_the_patient_was.md
+1,"Day 1, the patient received study drug pralsetinib at a dose of","1 Day 1, the patient received study drug pralsetinib at a dose of",234,234,/mnt/data/dsr_extracted/dsr_sections/1_Day_1_the_patient_received_study_drug_pralsetinib_at_a_dose_of.md
+3,acute encephalopathy and Grade 2 urinary tract infection. The,3 acute encephalopathy and Grade 2 urinary tract infection. The,234,251,/mnt/data/dsr_extracted/dsr_sections/3_acute_encephalopathy_and_Grade_2_urinary_tract_infection_The.md
+41.97,"ng/mL, BUN/creatinine of 31/1.46 mg/dL, albumin level of","41.97 ng/mL, BUN/creatinine of 31/1.46 mg/dL, albumin level of",251,251,/mnt/data/dsr_extracted/dsr_sections/41.97_ngmL_BUNcreatinine_of_31146_mgdL_albumin_level_of.md
+1.9,"g/dL, segmented neutrophils 44%, band forms 4% (ANC:","1.9 g/dL, segmented neutrophils 44%, band forms 4% (ANC:",251,261,/mnt/data/dsr_extracted/dsr_sections/1.9_gdL_segmented_neutrophils_44_band_forms_4_ANC.md
+19,days. The treatment was resumed at a reduced dose of 300,19 days. The treatment was resumed at a reduced dose of 300,261,264,/mnt/data/dsr_extracted/dsr_sections/19_days_The_treatment_was_resumed_at_a_reduced_dose_of_300.md
+8,"On Study Day 21, pralsetinib was reintroduced at a reduced","8 On Study Day 21, pralsetinib was reintroduced at a reduced",264,274,/mnt/data/dsr_extracted/dsr_sections/8_On_Study_Day_21_pralsetinib_was_reintroduced_at_a_reduced.md
+5,An autopsy was not performed. The physician assessed the,5 An autopsy was not performed. The physician assessed the,274,274,/mnt/data/dsr_extracted/dsr_sections/5_An_autopsy_was_not_performed_The_physician_assessed_the.md
+19,"On Study Day 445, the patient developed second episode of","19 On Study Day 445, the patient developed second episode of",274,293,/mnt/data/dsr_extracted/dsr_sections/19_On_Study_Day_445_the_patient_developed_second_episode_of.md
+59.0247,Male,59.0247 Male,293,306,/mnt/data/dsr_extracted/dsr_sections/59.0247_Male.md
+13,Female,13 Female,306,517,/mnt/data/dsr_extracted/dsr_sections/13_Female.md
+64.2055,Female,64.2055 Female,517,518,/mnt/data/dsr_extracted/dsr_sections/64.2055_Female.md
+84.3123,Male,84.3123 Male,518,647,/mnt/data/dsr_extracted/dsr_sections/84.3123_Male.md

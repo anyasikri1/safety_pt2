@@ -1,0 +1,868 @@
+# Template-to-DSR Section Mapping
+# Scope for SOURCE TRACE and compliance: DSR sections 1.1-1.2.2.4
+# Full template coverage included below for future extension.
+
+# --- IN SCOPE ---
+
+mappings:
+- dsr_section: '1.1'
+  dsr_title: OBJECTIVES OF REPORT
+  dsr_file: 1.1_OBJECTIVES_OF_REPORT.md
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1.2'
+  dsr_title: BACKGROUND
+  dsr_file: 1.2_BACKGROUND.md
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 1.2.1
+  dsr_title: Drug Background – Pralsetinib
+  dsr_file: 1.2.1_Drug_Background_Pralsetinib.md
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 1.2.1.1
+  dsr_title: Therapeutic Indications
+  dsr_file: 1.2.1.1_Therapeutic_Indications.md
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 1.2.1.2
+  dsr_title: Relevant Information in the core RMP
+  dsr_file: 1.2.1.2_Relevant_Information_in_the_core_RMP.md
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 1.2.1.3
+  dsr_title: Patient Exposure
+  dsr_file: 1.2.1.3_Patient_Exposure.md
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 1.2.2
+  dsr_title: Background on Severe Infection
+  dsr_file: 1.2.2_Background_on_Severe_Infection.md
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 1.2.2.1
+  dsr_title: 'The Epidemiological Triad: Agent–Host–Environment'
+  dsr_file: 1.2.2.1_The_Epidemiological_Triad_AgentHostEnvironment.md
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 1.2.2.3
+  dsr_title: Common Types of Infections in Solid Tumor Patients and Their
+  dsr_file: 1.2.2.3_Common_Types_of_Infections_in_Solid_Tumor_Patients_and_Their.md
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 1.2.2.4
+  dsr_title: Treatment recommendations
+  dsr_file: 1.2.2.4_Treatment_recommendations.md
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+future_mappings:
+- dsr_section: '2'
+  dsr_title: METHODOLOGY OF ANALYSIS OF DATA
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2.1'
+  dsr_title: RELEVANT TOXICOLOGY INFORMATION
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2.2'
+  dsr_title: ANALYSIS OF COMPANY SPONSORED CLINICAL TRIALS
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1'
+  dsr_title: Nonrandomized
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2'
+  dsr_title: METHODOLOGY OF ANALYSIS OF DATA
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3'
+  dsr_title: Single Group
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '4'
+  dsr_title: Non-Controlled
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3'
+  dsr_title: Single Group
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1'
+  dsr_title: Nonrandomized
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3'
+  dsr_title: Single Group
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '4'
+  dsr_title: Non-Controlled
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1'
+  dsr_title: Nonrandomized
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 2.2.1
+  dsr_title: Study BO42864 (AcceleRET-Lung)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 2.2.2
+  dsr_title: Study BO42863 (ARROW)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2.3'
+  dsr_title: ANALYSIS OF COMPANY SAFETY DATABASE
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 2.3.1
+  dsr_title: Strategy for Case Analysis
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3'
+  dsr_title: Single Group
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3.1'
+  dsr_title: RELEVANT TOXICOLOGY RESULTS
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.1.1
+  dsr_title: Hematologic and Lymphoid Systems
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3.2'
+  dsr_title: EVIDENCE FROM COMPANY SPONSORED CLINICAL TRIALS
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.2.1
+  dsr_title: AcceleRET-Lung Study
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.2.1.1
+  dsr_title: Infections leading to death (Grade 5)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '9'
+  dsr_title: This patient also presented with Grade 3 AE of Pyelonephritis
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3'
+  dsr_title: Single Group
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.2.1.2
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.2.1.3
+  dsr_title: Opportunistic Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0'
+  dsr_title: Grade 3-4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.2.1.4
+  dsr_title: Analysis of Neutropenia and Lymphopenia Events in Patients
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '10'
+  dsr_title: None
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '13'
+  dsr_title: None
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.2.2
+  dsr_title: ARROW Study
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3.3'
+  dsr_title: EVIDENCE FROM COMPANY SAFETY DATABASE
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.1
+  dsr_title: Serious Cases
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.1.1
+  dsr_title: Cases with Grade 5 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '18'
+  dsr_title: to 64 (Adult)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1'
+  dsr_title: Nonrandomized
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.1.1.1
+  dsr_title: Single Case Analysis
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '7'
+  dsr_title: AEs, not related for 33 AEs while it was not reported for the remaining
+    3 AEs.
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.1.2
+  dsr_title: Cases with Grade 4 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2'
+  dsr_title: METHODOLOGY OF ANALYSIS OF DATA
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1'
+  dsr_title: Nonrandomized
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.1.2.1
+  dsr_title: Single Case Analysis
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.1.3
+  dsr_title: Cases with Grade 3 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '16'
+  dsr_title: These Grade 4 AEs and Grade 5 AEs are already discussed in respective
+    sections.
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '13'
+  dsr_title: None
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '7'
+  dsr_title: AEs, not related for 33 AEs while it was not reported for the remaining
+    3 AEs.
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '6'
+  dsr_title: each (7.6*)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '5'
+  dsr_title: each (3.2*)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '4'
+  dsr_title: Non-Controlled
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3'
+  dsr_title: Single Group
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2'
+  dsr_title: METHODOLOGY OF ANALYSIS OF DATA
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1'
+  dsr_title: Nonrandomized
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2'
+  dsr_title: METHODOLOGY OF ANALYSIS OF DATA
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1'
+  dsr_title: Nonrandomized
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2'
+  dsr_title: METHODOLOGY OF ANALYSIS OF DATA
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1'
+  dsr_title: Nonrandomized
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.1.3.1
+  dsr_title: Single Case Analysis
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.1.4
+  dsr_title: Cases lacking Information on Severity Grades for Infection
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '17'
+  dsr_title: These Grade 4 AEs and Grade 5 AEs are already discussed in respective
+    sections.
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.1.5
+  dsr_title: Cases with Grade 2 and 1 Infections
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.2
+  dsr_title: Non-serious Cases
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '18'
+  dsr_title: to 64 (Adult)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '5'
+  dsr_title: each (3.2*)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2'
+  dsr_title: METHODOLOGY OF ANALYSIS OF DATA
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1'
+  dsr_title: Nonrandomized
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: 3.3.3
+  dsr_title: Summary of Safety Results
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '19'
+  dsr_title: pneumonia (n=4), Pneumonia aspiration (n=3), Urosepsis (n=2), Pneumonia
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2'
+  dsr_title: METHODOLOGY OF ANALYSIS OF DATA
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '4'
+  dsr_title: Non-Controlled
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '5'
+  dsr_title: each (3.2*)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '6'
+  dsr_title: each (7.6*)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '2'
+  dsr_title: METHODOLOGY OF ANALYSIS OF DATA
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3'
+  dsr_title: Single Group
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '5'
+  dsr_title: each (3.2*)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '6'
+  dsr_title: each (7.6*)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '11'
+  dsr_title: Valvani A, Martin A, Devarajan A, Chandy D. Postobstructive pneumonia
+    in lung
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '12'
+  dsr_title: Evans SE, Safdar A. Pneumonia in the Cancer Patient. Principles and Practice
+    of
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '14'
+  dsr_title: Seo SK, Liu C, Dadwal SS. Infectious Disease Complications in Patients
+    with
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '15'
+  dsr_title: Adas MA, Alveyn E, Cook E, Dey M, Galloway JB, Bechman K. The infection
+    risks
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '16'
+  dsr_title: These Grade 4 AEs and Grade 5 AEs are already discussed in respective
+    sections.
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '7'
+  dsr_title: AEs, not related for 33 AEs while it was not reported for the remaining
+    3 AEs.
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '6'
+  dsr_title: each (7.6*)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '0.30'
+  dsr_title: g/L (reference range 4.0-11.0), platelet count of 100 g/L
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '19'
+  dsr_title: pneumonia (n=4), Pneumonia aspiration (n=3), Urosepsis (n=2), Pneumonia
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '5'
+  dsr_title: each (3.2*)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '19'
+  dsr_title: pneumonia (n=4), Pneumonia aspiration (n=3), Urosepsis (n=2), Pneumonia
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '19'
+  dsr_title: pneumonia (n=4), Pneumonia aspiration (n=3), Urosepsis (n=2), Pneumonia
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1'
+  dsr_title: Nonrandomized
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '3'
+  dsr_title: Single Group
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '41.97'
+  dsr_title: ng/mL, BUN/creatinine of 31/1.46 mg/dL, albumin level of
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '1.9'
+  dsr_title: 'g/dL, segmented neutrophils 44%, band forms 4% (ANC:'
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '19'
+  dsr_title: pneumonia (n=4), Pneumonia aspiration (n=3), Urosepsis (n=2), Pneumonia
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '8'
+  dsr_title: On Study Day 21, pralsetinib was reintroduced at a reduced
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '5'
+  dsr_title: each (3.2*)
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '19'
+  dsr_title: pneumonia (n=4), Pneumonia aspiration (n=3), Urosepsis (n=2), Pneumonia
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '59.0247'
+  dsr_title: Male
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '13'
+  dsr_title: None
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '64.2055'
+  dsr_title: Female
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified
+- dsr_section: '84.3123'
+  dsr_title: Male
+  template_section: null
+  template_title: null
+  match_method: no_match
+  notes: No template analog identified

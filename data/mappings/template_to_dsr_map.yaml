@@ -1,0 +1,180 @@
+# Template-to-DSR Section Mapping
+# DSR: DSR_Severe Infections_2024_Pralsetinib (sections from dsr_sections_index.csv)
+# Template: Signal Assessment Report Template (Version 2025.11.20)
+#
+# Scope for SOURCE TRACE and compliance: DSR sections 1.1 through 1.2.2.4
+# Full template coverage included below for future extension.
+
+# --- IN SCOPE: DSR sections 1.1 - 1.2.2.4 ---
+
+mappings:
+  - dsr_section: "1.1"
+    dsr_title: "OBJECTIVES OF REPORT"
+    dsr_file: "1.1_OBJECTIVES_OF_REPORT.md"
+    template_section: "1"
+    template_title: "Introduction"
+    match_method: "title_and_purpose"
+    notes: "DSR 'Objectives of Report' aligns with template 'Introduction' (reason for evaluation)"
+
+  - dsr_section: "1.2"
+    dsr_title: "BACKGROUND"
+    dsr_file: "1.2_BACKGROUND.md"
+    template_section: "2"
+    template_title: "Background"
+    match_method: "exact_title"
+    notes: "Direct title match. Parent section."
+
+  - dsr_section: "1.2.1"
+    dsr_title: "Drug Background – Pralsetinib"
+    dsr_file: "1.2.1_Drug_Background_Pralsetinib.md"
+    template_section: "2.1"
+    template_title: "Product Background"
+    match_method: "title_match"
+    notes: "DSR 'Drug Background' maps to template 'Product Background'"
+
+  - dsr_section: "1.2.1.1"
+    dsr_title: "Therapeutic Indications"
+    dsr_file: "1.2.1.1_Therapeutic_Indications.md"
+    template_section: "2.1.2"
+    template_title: "Therapeutic Indications"
+    match_method: "exact_title"
+    notes: "Exact title match"
+
+  - dsr_section: "1.2.1.2"
+    dsr_title: "Relevant Information in the core RMP"
+    dsr_file: "1.2.1.2_Relevant_Information_in_the_core_RMP.md"
+    template_section: null
+    template_title: null
+    match_method: "no_match"
+    notes: "No direct template analog. RMP information not explicitly addressed in template."
+
+  - dsr_section: "1.2.1.3"
+    dsr_title: "Patient Exposure"
+    dsr_file: "1.2.1.3_Patient_Exposure.md"
+    template_section: "2.1.3"
+    template_title: "Patient exposure"
+    match_method: "exact_title"
+    notes: "Exact title match"
+
+  - dsr_section: "1.2.2"
+    dsr_title: "Background on Severe Infection"
+    dsr_file: "1.2.2_Background_on_Severe_Infection.md"
+    template_section: "2.2"
+    template_title: "Event of Interest"
+    match_method: "conceptual_match"
+    notes: "DSR 'Background on Severe Infection' maps to template 'Event of Interest'"
+
+  - dsr_section: "1.2.2.1"
+    dsr_title: "The Epidemiological Triad: Agent–Host–Environment"
+    dsr_file: "1.2.2.1_The_Epidemiological_Triad_AgentHostEnvironment.md"
+    template_section: "2.2"
+    template_title: "Event of Interest"
+    match_method: "content_match"
+    notes: "Subsection of DSR 1.2.2; maps to template 2.2 (epidemiology, risk factors)"
+
+  - dsr_section: "1.2.2.3"
+    dsr_title: "Common Types of Infections in Solid Tumor Patients and Their"
+    dsr_file: "1.2.2.3_Common_Types_of_Infections_in_Solid_Tumor_Patients_and_Their.md"
+    template_section: "2.2"
+    template_title: "Event of Interest"
+    match_method: "content_match"
+    notes: "Subsection of DSR 1.2.2; maps to template 2.2 (diagnosis, types)"
+
+  - dsr_section: "1.2.2.4"
+    dsr_title: "Treatment recommendations"
+    dsr_file: "1.2.2.4_Treatment_recommendations.md"
+    template_section: "2.2"
+    template_title: "Event of Interest"
+    match_method: "content_match"
+    notes: "Subsection of DSR 1.2.2; maps to template 2.2 (treatment recommendations)"
+
+# --- FUTURE EXTENSION: DSR sections 2 - 7 ---
+# These mappings are provided for completeness but are NOT in scope for
+# SOURCE TRACE blocks or compliance_snapshot.csv in this iteration.
+
+future_mappings:
+  - dsr_section: "2"
+    dsr_title: "METHODOLOGY OF ANALYSIS OF DATA"
+    template_section: "3"
+    template_title: "Review of data from all sources"
+    match_method: "conceptual_match"
+    notes: "Methodology umbrella"
+
+  - dsr_section: "2.1"
+    dsr_title: "RELEVANT TOXICOLOGY INFORMATION"
+    template_section: "3.1"
+    template_title: "Review of toxicology data"
+    match_method: "title_match"
+
+  - dsr_section: "2.2"
+    dsr_title: "ANALYSIS OF COMPANY SPONSORED CLINICAL TRIALS"
+    template_section: "3.2"
+    template_title: "Review of clinical studies"
+    match_method: "title_match"
+
+  - dsr_section: "2.3"
+    dsr_title: "ANALYSIS OF COMPANY SAFETY DATABASE"
+    template_section: "3.3"
+    template_title: "Review of safety database"
+    match_method: "title_match"
+
+  - dsr_section: "2.3.1"
+    dsr_title: "Strategy for Case Analysis"
+    template_section: "3.3.1"
+    template_title: "Methodology"
+    match_method: "conceptual_match"
+
+  - dsr_section: "3"
+    dsr_title: "RESULTS"
+    template_section: "3"
+    template_title: "Review of data from all sources"
+    match_method: "conceptual_match"
+    notes: "DSR Results maps to template Review of data"
+
+  - dsr_section: "3.1"
+    dsr_title: "RELEVANT TOXICOLOGY RESULTS"
+    template_section: "3.1"
+    template_title: "Review of toxicology data"
+    match_method: "title_match"
+
+  - dsr_section: "3.2"
+    dsr_title: "EVIDENCE FROM COMPANY SPONSORED CLINICAL TRIALS"
+    template_section: "3.2"
+    template_title: "Review of clinical studies"
+    match_method: "title_match"
+
+  - dsr_section: "3.3"
+    dsr_title: "EVIDENCE FROM COMPANY SAFETY DATABASE"
+    template_section: "3.3"
+    template_title: "Review of safety database"
+    match_method: "title_match"
+
+  - dsr_section: "3.3.3"
+    dsr_title: "Summary of Safety Results"
+    template_section: "3.3.3"
+    template_title: "Summary"
+    match_method: "title_match"
+
+  - dsr_section: "4"
+    dsr_title: "DISCUSSION"
+    template_section: "4"
+    template_title: "Discussion"
+    match_method: "exact_title"
+
+  - dsr_section: "5"
+    dsr_title: "OVERALL CONCLUSIONS"
+    template_section: "5"
+    template_title: "Conclusion"
+    match_method: "title_match"
+
+  - dsr_section: "6"
+    dsr_title: "REFERENCES"
+    template_section: "6"
+    template_title: "References"
+    match_method: "exact_title"
+
+  - dsr_section: "7"
+    dsr_title: "APPENDICES"
+    template_section: "Appendices"
+    template_title: "Appendices"
+    match_method: "exact_title"
