@@ -66,6 +66,7 @@ def cmd_from_sections(args: argparse.Namespace) -> int:
     config = Config.from_env(
         model=args.model,
         template_path=Path(args.template),
+        ib_path=Path(args.ib),
         sections_dir=Path(args.sections_dir),
         index_csv=Path(args.index_csv),
         output_dir=Path(args.output_dir),
@@ -76,6 +77,8 @@ def cmd_from_sections(args: argparse.Namespace) -> int:
         verbose=args.verbose,
     )
     errors = config.validate()
+    if not Path(args.ib).exists():
+        errors.append(f"IB PDF file not found: {args.ib}")
     if errors:
         for e in errors:
             logger.error(e)
@@ -103,6 +106,17 @@ def cmd_from_sections(args: argparse.Namespace) -> int:
     paths = generate_all_deliverables(
         template_sections, mappings, config, args.scope, config.sections_dir,
     )
+
+    # Step 4b: Populate filled template from IB
+    logger.info("Step 4b: Populating filled template from IB")
+    from .ib_extractor import build_ib_index
+    from .template_populator import write_filled_template
+
+    ib_index = build_ib_index(Path(args.ib))
+    filled_paths = write_filled_template(
+        template_sections, ib_index, config.traced_output_dir,
+    )
+    logger.info("Filled template: %s, %s", filled_paths["md"], filled_paths["docx"])
 
     # Step 5: Validate
     logger.info("Step 5: Running validation")
@@ -133,6 +147,7 @@ def cmd_from_pdf(args: argparse.Namespace) -> int:
     config = Config.from_env(
         model=args.model,
         template_path=Path(args.template),
+        ib_path=Path(args.ib),
         pdf_path=Path(args.pdf),
         output_dir=Path(args.output_dir),
         intermediate_dir=Path(args.output_dir).parent / "intermediate",
@@ -144,6 +159,8 @@ def cmd_from_pdf(args: argparse.Namespace) -> int:
     errors = config.validate()
     if not config.pdf_path.exists():
         errors.append(f"PDF file not found: {config.pdf_path}")
+    if not Path(args.ib).exists():
+        errors.append(f"IB PDF file not found: {args.ib}")
     if errors:
         for e in errors:
             logger.error(e)
@@ -170,6 +187,17 @@ def cmd_from_pdf(args: argparse.Namespace) -> int:
     paths = generate_all_deliverables(
         template_sections, mappings, config, args.scope, sections_dir,
     )
+
+    # Step 4b: Populate filled template from IB
+    logger.info("Step 4b: Populating filled template from IB")
+    from .ib_extractor import build_ib_index
+    from .template_populator import write_filled_template
+
+    ib_index = build_ib_index(Path(args.ib))
+    filled_paths = write_filled_template(
+        template_sections, ib_index, config.traced_output_dir,
+    )
+    logger.info("Filled template: %s, %s", filled_paths["md"], filled_paths["docx"])
 
     # Step 5: Validate
     logger.info("Step 5: Running validation")
@@ -218,6 +246,10 @@ def build_parser() -> argparse.ArgumentParser:
         help="Path to regulatory template .txt file",
     )
     sp_sections.add_argument(
+        "--ib", required=True,
+        help="Path to Investigator's Brochure PDF",
+    )
+    sp_sections.add_argument(
         "--scope", required=True,
         help="Section scope range, e.g. '1.1-1.2.2.4'",
     )
@@ -251,6 +283,10 @@ def build_parser() -> argparse.ArgumentParser:
     sp_pdf.add_argument(
         "--template", required=True,
         help="Path to regulatory template .txt file",
+    )
+    sp_pdf.add_argument(
+        "--ib", required=True,
+        help="Path to Investigator's Brochure PDF",
     )
     sp_pdf.add_argument(
         "--scope", required=True,

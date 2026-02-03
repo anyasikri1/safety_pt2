@@ -19,6 +19,7 @@ class Config:
     sections_dir: Path = field(default_factory=lambda: Path("data/input"))
     index_csv: Path = field(default_factory=lambda: Path("data/input/dsr_sections_index.csv"))
     pdf_path: Path = field(default_factory=lambda: Path("data/input/dsr.pdf"))
+    ib_path: Path = field(default_factory=lambda: Path("data/input/ib.pdf"))
     output_dir: Path = field(default_factory=lambda: Path("data/mappings"))
     intermediate_dir: Path = field(default_factory=lambda: Path("data/intermediate"))
     traced_output_dir: Path = field(default_factory=lambda: Path("data/output"))
